@@ -1,1 +1,3 @@
 # School_Managment_System-DataBase-
+
+Developed a robust School Management System designed to streamline data management, enhance communication, and automate administrative processes for educational institutions. Built using MySQL and hosted on Amazon AWS, the system centralizes student information, academic records, and financial transactions. It includes customizable dashboards, integrated communication tools, and advanced analytics to improve data accuracy, security, and user engagement. Additionally, coded a Discord bot using Python on Replit to automate data retrieval from the database, enabling seamless, real-time access to essential data for stakeholders.
